@@ -1,0 +1,94 @@
+{
+    "Menu":[
+        {
+            "Class": "Appatizers",
+            "Name": "Onion Rings",
+            "Ingredients":["Onions", "Flour", "Vegetable Oil"],
+            "Description": ["Crunchy", "Tasty", "Circle Shaped"]
+        },
+        {
+            "Class": "Appatizers",
+            "Name": "Jalapeno Poppers", 
+            "Ingredients":["Jalapeno", "Bacon", "Cream Cheese"], 
+            "Description":["Flaky", "Spicy", "Cheesy"]
+        }, 
+        {
+            "Class": "Appatizers",
+            "Name": "Cheese Dip",
+            "Ingredients":["Cheese", "Tortilla chips", "Pimentos"],
+            "Description":["Creamy", "Thick", "Salty"]
+        },
+            {
+                "Class": "Cold Sandwiches",
+                "Name": "Italian",
+                "Ingredients":["White Bread", "Lettuce", "Salami", "American Cheese", "Pepperoni"],
+                "Description":["Fresh", "Healthy", "Cheesy"]
+            },
+            {
+                "Class": "Cold Sandwiches", 
+                "Name": "Ham and Cheese",
+                "Ingredients":["Ham", "American Cheese", "White Bread"],
+                "Description":["Meaty", "Cheesy", "Tasty"]
+            },
+            {
+                "Class":"Cold Sandwiches",
+                "Name":"Tuna Sandwich",
+                "Ingredients":["Tuna", "White Bread"],
+                "Description":["Fishy", "Fresh", "Healthy"]
+            },
+                {
+                    "Class": "Hot Sandwiches",
+                    "Name": "Pizza Sub",
+                    "Ingredients": ["Mozzerella", "Pepperoni", "Marinara"],
+                    "Description":["Toasted", "Cheesy", "Saucy"]
+                },
+                {
+                    "Class": "Hot Sandwiches",
+                    "Name": "Hot Ham And Cheese",
+                    "Ingredients": ["Ham", "Cheese", "White Bread"],
+                    "Description":["Crispy", "Cheesy", "Meaty"]
+                },
+                {
+                    "Class": "Hot Sandwiches",
+                    "Name": "Meatball",
+                    "Ingredients": ["Meatballs", "Cheese", "Marinara"],
+                    "Description":["Savory", "Cheesy", "Saucy"]
+                },
+                    {
+                        "Class": "Desserts",
+                        "Name": "Pudding",
+                        "Ingredients":["Chocolate", "Milk", "Sugar"],
+                        "Description":["Creamy", "Sugary", "Chocolaty"]
+                    },
+                    {
+                        "Class": "Desserts",
+                        "Name": "Lava Cake",
+                        "Ingredients":["Chocolate Cake Batter", "Chocolate Cream Spread", "Sugar"],
+                        "Description":["Creamy", "Sugary", "Chocolaty"]
+                    },
+                    {
+                        "Class": "Desserts",
+                        "Name": "Ice Cream",
+                        "Ingredients":["Chocolate", "Milk", "Sea Salt"],
+                        "Description":["Creamy", "Crunchy", "Chocolaty"]
+                    },
+                        {
+                            "Class": "Drinks",
+                            "Name": "Sweet Tea",
+                            "Ingredients":["Tea Leaves", "Sugar", "Water"],
+                            "Description": ["Sugary", "Sweet", "Thirst-Quenching"]
+                        },
+                        {
+                            "Class": "Drinks",
+                            "Name": "Lemonade",
+                            "Ingredients":["Lemon Juice", "Sugar", "Water"],
+                            "D,escription":["Sweet", "Sour", "Tangy"]
+                        },
+                        {
+                            "Class": "Drinks",
+                            "Name": "Orange Juice",
+                            "Ingredients":["Orange Juice", "Water", "Ice"],
+                            "Description":["Sweet", "Fruity", "Tangy"]
+                        }
+    ]
+}
