@@ -1,9 +1,9 @@
 let joke = {
     "error": false,
-    "category": "Pun",
+    "category": "Spooky",
     "type": "twopart",
-    "setup": "What kind of doctor is Dr. Pepper?",
-    "delivery": "He's a fizzician.",
+    "setup": "Why didn't the skeleton go for prom?",
+    "delivery": "Because it had nobody.",
     "flags": {
         "nsfw": false,
         "religious": false,
@@ -12,9 +12,10 @@ let joke = {
         "sexist": false,
         "explicit": false
     },
-    "id": 140,
+    "id": 183,
     "safe": true,
     "lang": "en"
 }
-
-document.write(joke)
+// let Div2 = document.createElement('div')
+// document.getElementById("Div1").innerHTML = joke
+console.log(joke)

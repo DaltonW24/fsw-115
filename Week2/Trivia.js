@@ -2,125 +2,125 @@ let data1 = {
     "response_code": 0,
     "results": [
         {
-            "category": "Animals",
+            "category": "History",
             "type": "multiple",
-            "difficulty": "medium",
-            "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
-            "correct_answer": "River Horse (Greek)",
+            "difficulty": "easy",
+            "question": "What was Manfred von Richthofen&#039;s nickname?",
+            "correct_answer": "The Red Baron",
             "incorrect_answers": [
-                "River Horse (Latin)",
-                "Fat Pig (Greek)",
-                "Fat Pig (Latin)"
+                "The High Flying Ace",
+                "The Blue Serpent ",
+                "The Germany Gunner"
             ]
         },
         {
-            "category": "Entertainment: Video Games",
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Apollo mission was the last one in NASA&#039;s Apollo program?",
+            "correct_answer": "Apollo 17",
+            "incorrect_answers": [
+                "Apollo 13",
+                "Apollo 11",
+                "Apollo 15"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Tennis was once known as Racquetball.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Japanese Anime & Manga",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In the Gamecube Version of &quot;Resident Evil&quot; what text document is open on the monitor of the computer in the Visual Data Room?",
-            "correct_answer": "A GDC Document",
+            "question": "What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?",
+            "correct_answer": "&quot;How disgusting.&quot;",
             "incorrect_answers": [
-                "Text Document on Herbs",
-                "Nothing",
-                "Document on B.O.Ws"
+                "&quot;Idiot, I won&#039;t let you kill me!&quot;",
+                "&quot;Nothing.&quot;",
+                "&quot;Goddammit, Shinji.&quot;"
             ]
         },
         {
             "category": "Entertainment: Video Games",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which Game Boy from the Game Boy series of portable video game consoles was released first?",
-            "correct_answer": "Game Boy Color",
+            "question": "Rocket League is a game which features..",
+            "correct_answer": "Cars",
             "incorrect_answers": [
-                "Game Boy Advance",
-                "Game Boy Micro",
-                "Game Boy Advance SP"
+                "Helicopters",
+                "Planes",
+                "Submarines"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What do the letters in the GMT time zone stand for?",
+            "correct_answer": "Greenwich Mean Time",
+            "incorrect_answers": [
+                "Global Meridian Time",
+                "General Median Time",
+                "Glasgow Man Time"
+            ]
+        },
+        {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the first sport to have been played on the moon?",
+            "correct_answer": "Golf",
+            "incorrect_answers": [
+                "Football",
+                "Tennis",
+                "Soccer"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who designed the album cover for True Romance, an album by Estelle?",
+            "correct_answer": "Rebecca Sugar",
+            "incorrect_answers": [
+                "Matt Burnett",
+                "Ian Jones Quartey",
+                "Ben Leven"
             ]
         },
         {
             "category": "Entertainment: Japanese Anime & Manga",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?",
-            "correct_answer": "Elizabeth Midford",
+            "question": "In &quot;To Love-Ru&quot;, Ren and Run are from what planet?",
+            "correct_answer": "Memorze",
             "incorrect_answers": [
-                "Rachel Phantomhive",
-                "Alexis Leon Midford",
-                "Angelina Dalles"
+                "Deviluke",
+                "Mistletoe",
+                "Okiwana"
             ]
         },
         {
-            "category": "Science: Computers",
-            "type": "boolean",
-            "difficulty": "easy",
-            "question": "The Windows 7 operating system has six main editions.",
-            "correct_answer": "True",
-            "incorrect_answers": [
-                "False"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
+            "category": "Geography",
             "type": "multiple",
-            "difficulty": "medium",
-            "question": "In which year did the first Monster Hunter game get released?",
-            "correct_answer": "2004",
+            "difficulty": "hard",
+            "question": "What is the capital city of Bermuda?",
+            "correct_answer": "Hamilton",
             "incorrect_answers": [
-                "2006",
-                "2005",
-                "2002"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?",
-            "correct_answer": "Portal 2",
-            "incorrect_answers": [
-                "Left 4 Dead 2",
-                "Half-Life 3",
-                "Dota 2"
-            ]
-        },
-        {
-            "category": "Entertainment: Video Games",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
-            "correct_answer": "Microwave",
-            "incorrect_answers": [
-                "Computer",
-                "Refrigerator",
-                "Televison"
-            ]
-        },
-        {
-            "category": "Science: Computers",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What does the term MIME stand for, in regards to computing?",
-            "correct_answer": "Multipurpose Internet Mail Extensions",
-            "incorrect_answers": [
-                "Mail Internet Mail Exchange",
-                "Multipurpose Interleave Mail Exchange",
-                "Mail Interleave Method Exchange"
-            ]
-        },
-        {
-            "category": "Entertainment: Cartoon & Animations",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?",
-            "correct_answer": "Mason Pines",
-            "incorrect_answers": [
-                "Mable Pines",
-                "Jason Pines",
-                "Mark Pines"
+                "Santo Dominigo",
+                "San Juan",
+                "Havana"
             ]
         }
     ]
-};
+}
 JSON.stringify(data1)
 for(i = 0; i < data1.results.length; i++){
     document.write(data1.results[i])
